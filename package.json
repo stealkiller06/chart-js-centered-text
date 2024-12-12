@@ -1,0 +1,25 @@
+{
+  "name": "chart-js-centered-text",
+  "version": "1.0.0",
+  "description": "A Chart.js plugin for adding centered text in donut charts",
+  "main": "src/plugin.js",
+  "scripts": {
+    "start": "serve examples"
+  },
+  "keywords": [
+    "chartjs",
+    "chart.js",
+    "plugin",
+    "donut",
+    "doughnut",
+    "centered-text"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "peerDependencies": {
+    "chart.js": ">=3.0.0"
+  },
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
